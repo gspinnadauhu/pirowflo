@@ -21,10 +21,11 @@ Read the LICENCE first, by using this software you agree to the licence.
 
 ## Supported Apps S4 Monitor (23.02.2021)
 
-|        | Kinomap (BLE) | Cityrowgo (BLE)      | waterrower connect (BLE)   | Coxswain (BLE) 7.9 or higher | Holofit| 
-|:------:|:------:       |:------------:      |:-----:                     |:-------:                     |:-------:     
-|Android | test pending  | :heavy_check_mark: | devs need to update app                  | :heavy_check_mark:           |  :heavy_check_mark:           |
+|        | Kinomap (BLE) | Cityrowgo (BLE)      | waterrower connect (BLE)   | Coxswain (BLE) 7.9 or higher | Holofit| EXR|
+|:------:|:------:       |:------------:      |:-----:                     |:-------:                     |:-------:     |:-------:
+|Android | test pending  | :heavy_check_mark: | devs need to update app                  | :heavy_check_mark:           |  :heavy_check_mark:           |  :heavy_check_mark:           |
 |iOS     | test pending  | :heavy_check_mark: | :heavy_check_mark:         |  -                           | :heavy_check_mark:           |
+|Windows | | | | | |:heavy_check_mark:         |
 
 ## Supported Apps SmartRow (23.02.2021)
 
